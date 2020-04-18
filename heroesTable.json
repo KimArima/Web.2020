@@ -1,0 +1,25 @@
+[{
+	"heroes": [{
+			"name": "Violet Evergarden",
+			"gender": "Female",
+			"hair_color": "Blonde",
+			"age": "~16-18 years",
+			"status": "Alive",
+			"occupation": [
+				"Auto Memories Doll",
+				"Soldier [former]"
+			]
+		},
+		{
+			"name": "Gilbert Bougainvillea",
+			"gender": "Male",
+			"hair_color": "Black (ranobe)",
+			"age": "~29 years",
+			"status": "Alive",
+			"occupation": [
+				"Colonel",
+				"Major [former]"
+			]
+		}
+	]
+}]
